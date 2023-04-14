@@ -7,7 +7,7 @@ A atividade foi executada da seguinte forma:
 - Criação de uma EC2 na AWS <br />
 ![alt text](imagens/ec2.png)<br />
 
-- Executado o arquivo docker-compose na vm: <br />
+- Executado o arquivo docker-compose contendo a estrutura da aplicação na vm: <br />
 ```sh
 $ docker-compose -f docker-compose.yml up -d
 $ docker ps
