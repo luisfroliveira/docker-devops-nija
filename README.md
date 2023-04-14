@@ -14,8 +14,8 @@ $ docker ps
 ```
 ![alt text](imagens/docker.png)<br />
 
-Aplicação Node rodando no NGINX
+- Aplicação Node rodando no NGINX
 ![alt text](imagens/node.png)<br />
 
-Aplicação REDIS comunicando com a API Node
+- Aplicação REDIS comunicando com a API Node
 ![alt text](imagens/redis.png)<br />
