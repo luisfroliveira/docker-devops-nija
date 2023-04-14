@@ -1,7 +1,7 @@
 ## docker-devops-ninja
 ## Repositório contendo exercício de docker praticado no curso DevOps Ninja <br />
 
-Nesta atividade foi proposto a criação de 3 conteineres(nginx, node e redis) que se comunicassem entre si dentro de uma EC2 na AWS.<br />
+Nesta atividade foi proposto montar uma aplicação com um contador de acessos, a aplicação é composta por 4 conteineres(nginx, node, redis e mysql) que se comunicam entre si dentro de uma EC2 na AWS.<br />
 
 A atividade foi executada da seguinte forma:
 - Criação de uma EC2 na AWS <br />
